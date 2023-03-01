@@ -8,6 +8,9 @@ Windows 11 Pro 22H2 Personalization settings unlock tool.
 
 
 
+https://user-images.githubusercontent.com/95986479/222289754-92dd38d2-aee6-4470-b602-ee885b98724c.mp4
+
+
 ### Overview
 
 One of the limitations of unactivated Windows 11 (besides watermark in the lower right corner of the screen) is locked personalization settings inside Settings app. This tool allows you to fully unlock these settings without the need to activate Windows OS.
