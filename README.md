@@ -30,13 +30,15 @@ After modifying file owner and permissions, run **sunlock11.exe**. **Both** the 
 
 OS versions:
 
-1. Windows 11 Pro 22H2 (OS Build 22621.1344)
-2. Windows 11 Pro 22H2 (OS Build 22621.1265)
+1. Windows 11 Pro 22H2 (OS Build 22621.1265)
+2. Windows 11 Pro 22H2 (OS Build 22621.1344)
+3. Windows 11 Pro 23H2 (OS Build 22631.3155)
 
 DLL file versions
 
 1. SettingsEnvironment.Desktop.dll (10.0.22621.1194)
 2. SettingsEnvironment.Desktop.dll (10.0.22621.1344)
+3. SettingsEnvironment.Desktop.dll (10.0.22621.3155)
 
 
 ### Known issues
