@@ -34,6 +34,7 @@ OS versions:
 2. Windows 11 Pro 22H2 (OS Build 22621.1344)
 3. Windows 11 Pro 23H2 (OS Build 22631.3155)
 4. Windows 11 Pro 23H2 (OS Build 22631.3447)
+5. Windows 10 Pro 22h2 (OS Build 19045.2965)
 
 DLL file versions:
 
@@ -41,6 +42,7 @@ DLL file versions:
 2. SettingsEnvironment.Desktop.dll (10.0.22621.1344)
 3. SettingsEnvironment.Desktop.dll (10.0.22621.3155)
 4. SettingsEnvironment.Desktop.dll (10.0.22621.3374)
+5. SettingsEnvironment.Desktop.dll (10.0.19041.2913)
 
 
 ### Known issues
